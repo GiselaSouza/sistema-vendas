@@ -261,7 +261,8 @@ return [
         [
             'text' => 'Usuários',
             'url' => 'users',
-            'icon' => 'fas fa-users-cog'
+            'icon' => 'fas fa-users-cog',
+            'active' => ['users*']
         ],
         
     ],
